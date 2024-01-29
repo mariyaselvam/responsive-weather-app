@@ -66,10 +66,11 @@ p{
         width: 250px;
     }
     .button{
-        width: 100px;
+        width: 50px;
+        margin:10px;
     }
     .input{
-        width: 160px;
+        width: 150px;
     }
     .input,.button{
         height: 60px;
